@@ -17,6 +17,8 @@ Irradiance: the amount of light energy from one thing hitting a square meter of 
 
 <img src="brdf-3.png" width="400">
 
+<img src="brdf-3-5.png" width="400">
+
 Helmhortz property: 
 - Flip the incoming ray and outgoing ray, still same property of BRDF
 - Not exactly the same brightness seen from observer, just to say that the ability of the surface(material) is the same.
