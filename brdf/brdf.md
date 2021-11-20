@@ -10,4 +10,4 @@ The reflectance property of a material in a scene.
 
 Represent the incoming ray and outgoing ray in terms of theta and phi.
 
-![BRDF-2](brdf-2.png)
+<img src="brdf-2.png" width="400">
