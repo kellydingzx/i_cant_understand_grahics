@@ -17,3 +17,4 @@
 ### errors
 
 VS code extensions -> jupyter -> Uninstall(down arrow) -> choose an old version
+v2022.1.1001760686 
