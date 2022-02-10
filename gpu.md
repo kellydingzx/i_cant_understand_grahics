@@ -3,7 +3,7 @@
 ### Steps
 1. Install VS Code ssh extensions
 2. 'Ctrl+Shift+p' 
-  -> 'Remote-SSH' add a new host by `ssh -l username -J username@knuckles.cs.ucl.ac.uk username.cs.ucl.ac.uk` 
+  -> 'Remote-SSH' add a new host by `ssh -l username -J username@knuckles.cs.ucl.ac.uk blaze.cs.ucl.ac.uk` 
   -> Linux -> Password
 4. First time access:
    - `--user` is there to make sure that it only get installed onto your account
