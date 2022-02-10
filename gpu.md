@@ -13,3 +13,7 @@
       - `pip3 install torch torchvision --user`
       - `pip3 install jupyter'
 5. Open folder... 
+
+### errors
+
+VS code extensions -> jupyter -> Uninstall(down arrow) -> choose an old version
